@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RK3588
+D low power, high performance processor for ARM-based PC and Edge Computing device
+K
+F https://www.cnx-software.com/pdf/Rockchip%C2%A0RK3588%C2%A0Datasheet%C2%A0V0.1-20210727.pdf
+$ENDCMP
+#
+#End Doc Library
